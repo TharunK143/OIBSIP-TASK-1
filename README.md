@@ -1,4 +1,4 @@
-# Online-Train-Reservation
+# Online-Reservation-System
 
 Designed a Railway ticket booking, reservation and cancellation system. Technologies used: HTML, PHP, jquery, ajax, MySQL database.Created for best practice php and jquery.
 
